@@ -1,0 +1,35 @@
+.cabecalho{
+    background-color: black;
+    color: white;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-bottom: 250px;
+    width: 2051px;
+    height: 130px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.titulo{
+    font-size: 80px;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+.texto{
+    font-size: 25px;
+    margin-left: 1250px;
+    margin-top: 0px;
+}
+
+.botao{
+    color: white; 
+    background-color: rgb(90, 90, 90); 
+    border-color: black; border-radius: 5px; 
+    margin-left: 654px; 
+    margin-top: 20px;
+    width: 600px; 
+    height: 40px;
+}

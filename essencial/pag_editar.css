@@ -1,0 +1,37 @@
+.cabecalho{
+    background-color: black;
+    color: white;
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 2051px;
+    height: 130px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.titulo{
+    font-size: 80px;
+    margin-left: 650px;
+    margin-top: 0px;
+}
+
+.caixa{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.texto{
+    font-size: 30px;
+}
+
+.inserir{
+    margin-bottom: 20px;
+}
+
+.titulo2{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
